@@ -1,6 +1,6 @@
 # Analysis dogecoin reddit subscribers 
 
-## [Go to see our subscribers number increasing](http://www.dogecoin.idv.tw/)
+## [Go to see our subscribers number increasing](http://www.dogecoin.idv.tw/d/JTR66t6Mz/do-only-good-everyday?orgId=1)
 
 ## What is it?
 This is to see the increase in the number of our subscribers.

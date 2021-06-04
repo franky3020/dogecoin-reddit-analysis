@@ -10,7 +10,7 @@ This is to see the increase in the number of our subscribers.
 ## How to build
 
 1. Clone project
-2. Change `password` in docker-compose.yml
+2. Change password `GF_SECURITY_ADMIN_PASSWORD: 42069` in docker-compose.yml
 3. Run docker-compose up -d
 4. Open web on 80 port
 5. Login user is `admin`, password is which you set in `step 2`

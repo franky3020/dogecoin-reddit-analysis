@@ -1,0 +1,16 @@
+global:
+  scrape_interval: 1s 
+
+  external_labels:
+    monitor: 'codelab-monitor'
+
+scrape_configs:
+  
+  - job_name: 'dogecoin'
+
+    scrape_interval: 1s
+
+    static_configs:
+      - targets: ['get_dogecoin_subscribers:3000']
+      
+  

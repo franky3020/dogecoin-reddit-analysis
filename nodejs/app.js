@@ -30,5 +30,6 @@ setInterval(function() {
 }, 5000);
 
 app.listen(port, () => {
+  console.log(`Example app listening at http://localhost:${port}/metrics`)
   console.log(`Dog to the moon`);
 });
